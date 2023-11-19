@@ -1,1 +1,1 @@
-print("Tercer kata")
+print("Tercer kata actualizado")
